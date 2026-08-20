@@ -1,4 +1,4 @@
-def add(x,y):
-    return x+y
+def sub(x,y):
+    return x-y
 
-print(add(6,3))
+print(sub(6,4))
