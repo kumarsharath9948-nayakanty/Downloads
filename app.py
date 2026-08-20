@@ -1,6 +1,7 @@
-def add(x,y):
-    return x+y
+def sub(x,y):
+    return x-y
 
+print(sub(10,2))
 def multiply(x, y):
     return x * y
 
